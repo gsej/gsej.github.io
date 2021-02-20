@@ -1,0 +1,20 @@
+.definitions {
+    display: flex;
+    margin-top: 1em;
+    font-size: 2em;
+    justify-content: center;
+}
+
+dt {
+    display: block;
+}
+
+dt:after {
+    content: ":";
+}
+
+dd {
+    display: block;
+    margin-left: 40px;
+    margin-bottom: 1em;
+}

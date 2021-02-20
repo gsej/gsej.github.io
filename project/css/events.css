@@ -1,0 +1,42 @@
+section {
+    margin-top: 1em;
+}
+
+h3 {
+    display: block;
+    font-size: 1.2em;
+    margin: 0.8em;
+    font-weight: bold;
+}
+
+h4 {
+    display: block;
+    font-size: 1em;
+    margin: 0.em;
+    font-weight: bold;
+
+}
+
+.cancelled {
+    color: red;
+    font-style: italic;
+    padding-top: 5px;
+}
+
+
+.tentative {
+    color: orange;
+    font-style: italic;
+    padding-top: 5px;
+}
+
+.confirmed {
+    color: green;
+    font-style: italic;
+    padding-top: 5px;
+}
+
+.to-be-confirmed {
+    color: rebeccapurple;
+    font-style: italic;
+    padding-top: 5px;
