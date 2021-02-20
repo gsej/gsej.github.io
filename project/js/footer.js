@@ -11,7 +11,8 @@ window.addEventListener('load', () => {
         <img src="images/social-media/icons8-twitter-48.png" alt="twitter icon">
     </div>
     <div class="validators">
-        <a href="http://validator.w3.org/check/referer">Validate HTML</a>
+       <a href="http://validator.w3.org/check/referer">Validate HTML Again</a>
+    
     </div>
     <div>
         <a href="https://jigsaw.w3.org/css-validator/check/referer">Validate CSS </a>
